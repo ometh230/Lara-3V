@@ -149,38 +149,30 @@ jobs:
 
 ## 📚 BOT MENU
 
-> Full button menu
+> Full button menu and essay to use 
 
 <div align="center">
-  <img src="https://i.ibb.co/WN8gMwPt/Screenshot-20260815-172336-Whats-App-Business.jpg" width="100%" alt="botmenu" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://i.ibb.co/WN8gMwPt/Screenshot-20260815-172336-Whats-App-Business.jpg" width="25%" height="50%"alt="botmenu" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 <br>
 
-### 📱 Responsive Views & Mobile Editing
-> Design on the go. The interface scales down perfectly for mobile screens and tablets.
+## ✨️ Lara Md Futures 
+> Yt Download, Facebook Download, Instagram Download, X/Twitter Download And more ....
 
 <div align="center">
   <img src="https://i.ibb.co/JWVtjCwj/Screenshot-20260815-173500-Whats-App-Business.jpg" width="31%" alt="Mobile Editor View" style="border-radius: 8px;"> &nbsp;
-  <img src="YOUR_MOBILE_SCREENSHOT_2.png" width="31%" alt="Card Preview View" style="border-radius: 8px;"> &nbsp;
-  <img src="YOUR_MOBILE_SCREENSHOT_3.png" width="31%" alt="Print Settings View" style="border-radius: 8px;">
+  <img src="https://i.ibb.co/qMB6N1Tb/Screenshot-20260815-174218-Whats-App-Business.jpg" width="31%" alt="Card Preview View" style="border-radius: 8px;"> &nbsp;
+  <img src="https://i.ibb.co/Xx6sspNc/Screenshot-20260815-174700-Whats-App-Business.jpg" width="31%" alt="Print Settings View" style="border-radius: 8px;">
 </div>
-
-<br>
-
-### ⚡ Feature Highlights
-
-| ✨ Template Selection | 🎨 Custom Filters & Bleed Guides |
-| :---: | :---: |
-| <img src="YOUR_FEATURE_IMAGE_1.png" width="100%"> | <img src="YOUR_FEATURE_IMAGE_2.png" width="100%"> |
-| Choose from K-Pop, Trading Card, or Business sizes. | Drag-and-drop imagery with instant edge alignment. |
-
+<hr>
 <div align="center">
 <h3>🌸 LARA-MD DEVELOPER TEAM 👤</h3>
 
 | SADEESHA 👤              |
 |---------------------|
 [![Owner](https://i.ibb.co/Z0Rk4Yy/IMG-20250513-135909-02.jpg)](https://github.com/sadiyamin/)
+|FOUNDER & DEVELOPER  |
 </div>
 <hr>
 
