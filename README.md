@@ -143,7 +143,7 @@ jobs:
 <hr>
 
 
-## ☃️LARA MD FUTURES
+## ☃️ LARA MD FUTURES ☃️
 > Yt Download, Facebook Download, Instagram Download, X/Twitter Download And more ....
 
 <div align="center">
@@ -156,9 +156,9 @@ jobs:
 <h3>🌸 LARA-MD DEVELOPER TEAM 👤</h3>
 
 | SADEESHA 👤              |
-|---------------------|
+|--------------------------|
 [![Owner](https://i.ibb.co/Z0Rk4Yy/IMG-20250513-135909-02.jpg)](https://github.com/sadiyamin/)
-|💃🏻FOUNDER & DEVELOPER💃🏻  |
+|🛠 FOUNDER & DEVELOPER 🛠 |
 </div>
 <hr>
 
