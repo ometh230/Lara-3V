@@ -146,26 +146,13 @@ jobs:
 <img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
 
 <hr>
-<!-- HEADER -->
-<div align="center">
-  <h1>📷 Photo Card Maker</h1>
-  <p>An easy-to-use application to design, format, and print custom photo cards.</p>
-  
-  <!-- Add buttons/badges if you want -->
-  <a href="#-features">Features</a> •
-  <a href="#-live-demo">Live Demo</a> •
-  <a href="#-installation">Installation</a>
-</div>
 
----
+## 📚 BOT MENU
 
-## 🌟 Visual Showcase
-
-### 🖥️ Desktop Dashboard
-> A clean, modern interface designed for effortless card customization.
+> Full button menu
 
 <div align="center">
-  <img src="YOUR_MAIN_SCREENSHOT_URL.png" width="100%" alt="Main Dashboard Screenshot" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://i.ibb.co/WN8gMwPt/Screenshot-20260815-172336-Whats-App-Business.jpg" width="100%" alt="botmenu" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 <br>
