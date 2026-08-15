@@ -161,7 +161,7 @@ jobs:
 > Design on the go. The interface scales down perfectly for mobile screens and tablets.
 
 <div align="center">
-  <img src="YOUR_MOBILE_SCREENSHOT_1.png" width="31%" alt="Mobile Editor View" style="border-radius: 8px;"> &nbsp;
+  <img src="https://i.ibb.co/JWVtjCwj/Screenshot-20260815-173500-Whats-App-Business.jpg" width="31%" alt="Mobile Editor View" style="border-radius: 8px;"> &nbsp;
   <img src="YOUR_MOBILE_SCREENSHOT_2.png" width="31%" alt="Card Preview View" style="border-radius: 8px;"> &nbsp;
   <img src="YOUR_MOBILE_SCREENSHOT_3.png" width="31%" alt="Print Settings View" style="border-radius: 8px;">
 </div>
