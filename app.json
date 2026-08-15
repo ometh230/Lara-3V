@@ -29,6 +29,18 @@
       "description": "Add your number",
       "required": true,
       "value": ""
+    },
+
+    "WELCOME": {
+      "description": "group welcome msg",
+      "required": true,
+      "value": ""
+    },
+
+    "GOODBYE": {
+      "description": "group good bye msg",
+      "required": true,
+      "value": ""
     }
 },
 
