@@ -1,4 +1,4 @@
-`Update On : 2026.03.01`
+`Update On : 2026.08.15`
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=LARA-MD-BOT" alt="Typing SVG" /></a>
 <div align="center">
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
@@ -150,9 +150,9 @@ jobs:
 <div align="center">
 <h3>🌸 LARA-MD DEVELOPER TEAM 👤</h3>
 
-| SADEESHA 👤              | THARUSHA 👤              |
-|---------------------|---------------------|
-[![Owner](https://i.ibb.co/Z0Rk4Yy/IMG-20250513-135909-02.jpg)](https://github.com/sadiyamin/) | [![Tharusha](https://i.ibb.co/chkgGJ1N/IMG-20260301-WA0038.jpg)](https://github.com/sadiyamin/) |
+| SADEESHA 👤              |
+|---------------------|
+[![Owner](https://i.ibb.co/Z0Rk4Yy/IMG-20250513-135909-02.jpg)](https://github.com/sadiyamin/)
 </div>
 <hr>
 
