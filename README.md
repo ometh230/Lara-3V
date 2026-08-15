@@ -32,7 +32,7 @@
 <h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් click කරන්න)</h5> 
 <h3>SEVER ➊</h3>
 <div align="center">
-<button><tr><a href="https://lara-pair-008083e660f7.herokuapp.com">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="https://managing-katalin-tharumin-2411035f.koyeb.app/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <h3>SEVER ❷</h3>
 <div align="center">
 <button><tr><a href="https://managing-katalin-tharumin-2411035f.koyeb.app/">🌸 SESSION_ID 🌸 ❷</a></tr></button>
@@ -147,17 +147,8 @@ jobs:
 
 <hr>
 
-## 📚 BOT MENU
 
-> Full button menu and essay to use 
-
-<div align="center">
-  <img src="https://i.ibb.co/WN8gMwPt/Screenshot-20260815-172336-Whats-App-Business.jpg" width="25%" height="50%"alt="botmenu" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</div>
-
-<br>
-
-## ✨️ Lara Md Futures 
+## 💃🏻 Lara Md Futures 
 > Yt Download, Facebook Download, Instagram Download, X/Twitter Download And more ....
 
 <div align="center">
@@ -172,7 +163,7 @@ jobs:
 | SADEESHA 👤              |
 |---------------------|
 [![Owner](https://i.ibb.co/Z0Rk4Yy/IMG-20250513-135909-02.jpg)](https://github.com/sadiyamin/)
-|FOUNDER & DEVELOPER  |
+|💃🏻FOUNDER & DEVELOPER💃🏻  |
 </div>
 <hr>
 
